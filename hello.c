@@ -3,4 +3,6 @@
 void main()
 {
   printf("hellow world");
+  
+  printf("\nthis is a basic c program");
 }
